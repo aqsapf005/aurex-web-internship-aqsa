@@ -157,10 +157,10 @@ Live Website: https://aqsapf005.github.io/aurex-web-internship-aqsa/
 ## Screenshots
 
 ### Desktop View
-![Desktop View](Screenshots/desktop.png)
+![Desktop View](Screenshot/desktop.png)
 
 ### Tablet View
-![Tablet View](Screenshots/tablet.png)
+![Tablet View](Screenshot/tablet.png)
 
 ### Mobile View
-![Mobile View](Screenshots/mobile.png)
+![Mobile View](Screenshot/mobile.png)
