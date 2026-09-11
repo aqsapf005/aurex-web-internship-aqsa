@@ -152,20 +152,15 @@ adjusting the layout for tablet and mobile screens.
 
 ## Live Deployment
 
-Live Website: **Coming Soon**
+Live Website: https://aqsapf005.github.io/aurex-web-internship-aqsa/
 
 ## Screenshots
 
 ### Desktop View
-Coming Soon
+![Desktop View](Screenshots/desktop.png)
 
 ### Tablet View
-Coming Soon
+![Tablet View](Screenshots/tablet.png)
 
 ### Mobile View
-Coming Soon
-
-## Internship Week 2
-
-This project was completed as part of the AUREX Full-Stack
-Engineering Internship - Week 2.
+![Mobile View](Screenshots/mobile.png)
