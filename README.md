@@ -164,3 +164,14 @@ Live Website: https://aqsapf005.github.io/aurex-web-internship-aqsa/
 
 ### Mobile View
 ![Mobile View](Screenshot/mobile.png)
+## 🔹 Reflection
+Week 3 was a challenging but rewarding experience. I learned how to use advanced CSS Grid features like `auto-fit` and `minmax()` to create responsive layouts that adapt across devices. Implementing keyframe animations and hover transitions helped me understand how micro-interactions improve user experience. I also practiced using CSS variables for consistent theming and polished my portfolio with modern UI/UX techniques. Overall, this week strengthened my confidence in building interactive, responsive, and visually appealing web applications.
+## ✅ Completed Features Checklist
+-  Advanced CSS Grid  
+- CSS Variables  
+-  Hover effects & transitions  
+-  Keyframe animations  
+-  Responsive optimization  
+-  Clean folder structure  
+-  Live deployment  
+-  Documentation update
