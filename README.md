@@ -37,9 +37,7 @@ This repository contains the progressive deliverables for the AUREX Full-Stack E
 - **Card Hover State Elevation:**
   ![Card Hover Interaction](Screenshot/hover.png)
   **Clean Repository Architecture:**
-  ![Folder Structure](Screenshot/foldergit add .
-git commit -m "Added hover card and folder structure screenshots to README"
-git push origin mainstructure.png)
+  ![Folder Structure](Screenshot/folderstructure.png)
 
 ---
 
