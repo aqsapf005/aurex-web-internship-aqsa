@@ -30,8 +30,19 @@ This repository contains the progressive deliverables for the AUREX Full-Stack E
 
 | Desktop View | Tablet View | Mobile View |
 | :---: | :---: | :---: |
-| ![Desktop View](Screenshot/desktop.png) | ![Tablet View](Screenshot/tablet.png) | ![Mobile View](Screenshot/mobile.png) |
+| ![Desktop View](desktop.png) | ![Tablet View](tablet.png) | ![Mobile View](mobile.png) |
 
+---
+
+## 🔍 Micro-Interactions & Structure
+
+### Card Hover State Elevation
+
+![Card Hover Interaction](hover-card.png)
+
+### Clean Repository Architecture
+
+![Folder Structure](folder-structure.png)
 ---
 
 ## 🔍 Micro-Interactions & Structure
