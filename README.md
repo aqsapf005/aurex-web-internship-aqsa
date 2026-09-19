@@ -43,12 +43,7 @@ This repository contains the progressive deliverables for the AUREX Full-Stack E
 ### Clean Repository Architecture
 
 ![Folder Structure](folder-structure.png)
-## 📱 Visual Proofs & Device Testing Outcomes
 
-| Desktop View | Tablet View | Mobile View |
-| :---: | :---: | :---: |
-| ![Desktop View](desktop.png) | ![Tablet View](tablet.png) | ![Mobile View](mobile.png) |
----
 
 ## 🚀 Progress Reflection
 In Week 3, combining CSS Grid (`auto-fit`/`minmax`) with Flexbox made building responsive components effortless without relying excessively on rigid media queries. Splitting animations into `styles/animations.css` significantly improved code organization and maintainability.
