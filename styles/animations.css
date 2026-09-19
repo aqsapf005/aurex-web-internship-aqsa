@@ -1,0 +1,87 @@
+/* =========================
+   PAGE LOAD ANIMATION
+========================= */
+
+@keyframes fadeIn {
+
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+}
+
+
+/* =========================
+   BODY ANIMATION
+========================= */
+
+body {
+    animation:
+        fadeIn 1s ease-in-out;
+}
+
+
+/* =========================
+   HEADER ANIMATION
+========================= */
+
+header {
+    animation:
+        fadeIn 0.8s ease-in-out;
+}
+
+
+/* =========================
+   PROJECT CARD ANIMATION
+========================= */
+
+@keyframes cardAppear {
+
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+}
+
+.project-card {
+    animation:
+        cardAppear 0.8s ease-in-out;
+}
+
+
+/* =========================
+   BUTTON PULSE
+========================= */
+
+@keyframes buttonPulse {
+
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.03);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+
+}
+
+button:hover {
+    animation:
+        buttonPulse 0.5s ease-in-out;
+}

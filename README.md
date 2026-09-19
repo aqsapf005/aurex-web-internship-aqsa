@@ -1,177 +1,50 @@
-# AUREX Full-Stack Engineering Internship
+# AUREX Full-Stack Engineering Internship - Week 3
 
-## Intern Information
-
-**Name:** Aqsa
+**Intern Name:** Aqsa Nawaz
 **Domain:** Full-Stack Web Development
-**Week:** Week 1
+**Week:** Week 3 (Advanced CSS, CSS Grid, Flexbox & Micro-Interactions)
+**Live Deployment:** [View Live Web Application](https://your-github-username.github.io/aurex-web-internship-aqsa/)
 
-## Task Description
+---
 
-This project is part of Week 1 of the AUREX Full-Stack Engineering Internship.
+## 📌 Project Overview
+This project represents the Week 3 deliverable for the AUREX Full-Stack Engineering Internship. It features an interactive, modern web application page built using clean CSS architecture, custom animations, fluid typography, and complex layouts.
 
-The objective of this task is to set up the development environment, learn Git and GitHub fundamentals, and create a basic personal profile webpage using HTML5.
+---
 
-## Technologies Used
+## 🛠️ Features & Implementations
 
-* HTML5
-* Git
-* GitHub
-* Visual Studio Code
+### 1. Advanced CSS Grid & Flexbox Architecture
+- Implemented responsive multi-column gallery layout using `grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))` to naturally adjust layout across devices.
+- Utilized Flexbox for inner card content alignment, action buttons, and vertical centering.
+- Structured CSS into maintainable components with modular setup:
+  - `styles/main.css`: Base layouts, variables, typography, and Grid/Flexbox structures.
+  - `styles/animations.css`: Dynamic micro-interactions and custom keyframe animations.
 
-## Project Structure
+### 2. Animations & Micro-Interactions
+- Custom `@keyframes fadeIn` animations for smooth page load transitions.
+- Interactive card hover state elevations (`transform: translateY(-8px)`) with subtle box-shadow depth.
+- Smooth CSS transition effects (`transition: transform 0.3s ease, box-shadow 0.3s ease`).
 
-```text
-aurex-web-internship-aqsa/
-├── index.html
-└── README.md
-```
+### 3. Responsive Design & Modern UI/UX
+- Mobile-first approach guaranteeing zero horizontal scrollbars across mobile, tablet, and desktop viewports.
+- Custom CSS Variables (`:root`) for color palettes and typographic scaling.
 
-## How to Run the Project Locally
+---
 
-1. Download or clone the repository.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html`.
-4. Run the file using a web browser or Live Server.
+## 📱 Performance & Visual Proofs
 
-## Key Learnings
+| Desktop View | Tablet View | Mobile View |
+| :---: | :---: | :---: |
+| ![Desktop View](desktop.png) | ![Tablet View](tablet.png) | ![Mobile View](mobile.png) |
 
-During Week 1, I learned:
+### Micro-Interactions & Structure
+- **Hover State Elevation:**
+  ![Hover Effect](hover-card.png)
+- **Clean Repository Architecture:**
+  ![Folder Structure](folder-structure.png)
 
-* Basic HTML5 document structure
-* HTML headings and paragraphs
-* Links and navigation
-* Lists
-* Forms, labels, inputs, and buttons
-* Semantic HTML elements
-* Basic accessibility practices
-* Git fundamentals
-* Git repository initialization
-* GitHub repository management
+---
 
-## Difficulties / Blockers
-
-Initially, I was unfamiliar with Git and README files. I learned how Git is used to track project changes and how a README file documents a project.
-
-## Completed Requirements
-
-* [x] Development environment setup
-* [x] Git installation
-* [x] Git repository initialization
-* [x] Personal profile webpage
-* [x] Semantic HTML structure
-* [x] Navigation
-* [x] About Me section
-* [x] Skills section
-* [x] Education section
-* [x] Experience section
-* [x] Contact form
-* [x] Footer
-* [x] README documentation
-# Aqsa Developer Profile
-
-## AUREX Full-Stack Engineering Internship
-
-### Intern Information
-
-- **Name:** Aqsa
-- **Domain:** Full-Stack Web Development
-- **Week:** Week 2
-- **Project:** Responsive Personal Portfolio
-
-## About the Project
-
-This project is a responsive personal portfolio website created
-as part of the AUREX Full-Stack Engineering Internship.
-
-The Week 1 HTML profile webpage was styled and improved using
-CSS3, Flexbox, responsive design, and basic UI/UX principles.
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- Flexbox
-- Responsive Design
-- Media Queries
-- Git
-- GitHub
-
-## CSS Features Implemented
-
-- CSS selectors
-- Colors and backgrounds
-- Typography
-- CSS Box Model
-- Margin and padding
-- Borders and border-radius
-- Flexbox layout
-- Hover effects
-- Responsive media queries
-- Mobile-first responsive adjustments
-
-## Layout Techniques
-
-Flexbox was used for:
-
-- Navigation menu
-- Skills section
-- Contact form
-- Responsive alignment
-
-Media queries were added to make the website responsive
-for desktop, tablet, and mobile screens.
-
-## Responsive Design
-
-The portfolio is designed to work smoothly on:
-
-- Desktop
-- Tablet
-- Mobile
-
-## Key Learnings
-
-During Week 2, I learned how to:
-
-- Style an HTML webpage using CSS3
-- Use the CSS Box Model
-- Create layouts using Flexbox
-- Add hover effects
-- Create responsive designs using Media Queries
-- Improve visual hierarchy and spacing
-- Create a clean and professional user interface
-
-## Challenges Faced
-
-One of the main challenges was making the website responsive
-for different screen sizes.
-
-I solved this by using Flexbox and CSS Media Queries and
-adjusting the layout for tablet and mobile screens.
-
-## Live Deployment
-
-Live Website: https://aqsapf005.github.io/aurex-web-internship-aqsa/
-
-## Screenshots
-
-### Desktop View
-![Desktop View](Screenshot/desktop.png)
-
-### Tablet View
-![Tablet View](Screenshot/tablet.png)
-
-### Mobile View
-![Mobile View](Screenshot/mobile.png)
-## 🔹 Reflection
-Week 3 was a challenging but rewarding experience. I learned how to use advanced CSS Grid features like `auto-fit` and `minmax()` to create responsive layouts that adapt across devices. Implementing keyframe animations and hover transitions helped me understand how micro-interactions improve user experience. I also practiced using CSS variables for consistent theming and polished my portfolio with modern UI/UX techniques. Overall, this week strengthened my confidence in building interactive, responsive, and visually appealing web applications.
-## ✅ Completed Features Checklist
--  Advanced CSS Grid  
-- CSS Variables  
--  Hover effects & transitions  
--  Keyframe animations  
--  Responsive optimization  
--  Clean folder structure  
--  Live deployment  
--  Documentation update
+## 🚀 Weekly Reflection
+During Week 3, I deepened my knowledge of modern CSS layout techniques by combining CSS Grid (`auto-fit`/`minmax`) with Flexbox to create scalable UI structures without relying heavily on rigid media queries. Separating concerns into `main.css` and `animations.css` significantly improved code cleanliness and maintainability.
