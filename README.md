@@ -38,11 +38,11 @@ This repository contains the progressive deliverables for the AUREX Full-Stack E
 
 ### Card Hover State Elevation
 
-![Card Hover Interaction](hover-card.png)
+<img src="https://raw.githubusercontent.com/aqsapf005/aurex-web-internship-aqsa/main/hover-card.png" alt="Card Hover Interaction">
 
 ### Clean Repository Architecture
 
-![Folder Structure](folder-structure.png)
+<img src="https://raw.githubusercontent.com/aqsapf005/aurex-web-internship-aqsa/main/folder-structure.png" alt="Folder Structure">
 
 
 ## 🚀 Progress Reflection
