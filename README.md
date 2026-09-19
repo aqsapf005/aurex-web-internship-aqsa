@@ -3,7 +3,7 @@
 **Intern Name:** Aqsa Nawaz
 **Domain:** Full-Stack Web Development
 **Current Progress:** Week 3 Completed
-**Live Deployment:** [View Live Application](https://your-github-username.github.io/aurex-web-internship-aqsa/)
+**Live Deployment:** [View Live Application](https://aqsapf005.github.io/aurex-web-internship-aqsa/)
 
 ---
 
