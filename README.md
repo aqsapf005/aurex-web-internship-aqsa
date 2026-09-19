@@ -1,50 +1,43 @@
-# AUREX Full-Stack Engineering Internship - Week 3
+# AUREX Full-Stack Engineering Internship - Modern Web Application
 
 **Intern Name:** Aqsa Nawaz
 **Domain:** Full-Stack Web Development
-**Week:** Week 3 (Advanced CSS, CSS Grid, Flexbox & Micro-Interactions)
-**Live Deployment:** [View Live Web Application](https://your-github-username.github.io/aurex-web-internship-aqsa/)
+**Current Progress:** Week 3 Completed
+**Live Deployment:** [View Live Application](https://your-github-username.github.io/aurex-web-internship-aqsa/)
 
 ---
 
 ## 📌 Project Overview
-This project represents the Week 3 deliverable for the AUREX Full-Stack Engineering Internship. It features an interactive, modern web application page built using clean CSS architecture, custom animations, fluid typography, and complex layouts.
+This repository contains the progressive deliverables for the AUREX Full-Stack Engineering Internship. Starting from basic HTML structure in Week 1 and layout concepts in Week 2, this Week 3 phase enhances the application into an interactive showcase page using advanced CSS Grid, modern Flexbox structures, clean micro-interactions, and visual animations.
 
 ---
 
-## 🛠️ Features & Implementations
+## 🗓️ Weekly Progress Summary
 
-### 1. Advanced CSS Grid & Flexbox Architecture
-- Implemented responsive multi-column gallery layout using `grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))` to naturally adjust layout across devices.
-- Utilized Flexbox for inner card content alignment, action buttons, and vertical centering.
-- Structured CSS into maintainable components with modular setup:
-  - `styles/main.css`: Base layouts, variables, typography, and Grid/Flexbox structures.
-  - `styles/animations.css`: Dynamic micro-interactions and custom keyframe animations.
+### 🔹 Week 1 & Week 2: Foundations & Layouts
+- Setup basic semantic HTML5 structure and clean repository workflow.
+- Applied CSS reset, typography, and initial layout styling for developer portfolio sections.
 
-### 2. Animations & Micro-Interactions
-- Custom `@keyframes fadeIn` animations for smooth page load transitions.
-- Interactive card hover state elevations (`transform: translateY(-8px)`) with subtle box-shadow depth.
-- Smooth CSS transition effects (`transition: transform 0.3s ease, box-shadow 0.3s ease`).
-
-### 3. Responsive Design & Modern UI/UX
-- Mobile-first approach guaranteeing zero horizontal scrollbars across mobile, tablet, and desktop viewports.
-- Custom CSS Variables (`:root`) for color palettes and typographic scaling.
+### 🔹 Week 3: Advanced CSS, CSS Grid, Flexbox & Micro-Interactions
+- **CSS Architecture:** Separated styling concerns into modular files (`styles/main.css` and `styles/animations.css`).
+- **Responsive CSS Grid:** Designed dynamic project gallery using `grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))` for fluid element wrapping across viewports.
+- **Micro-Interactions & Animations:** Created custom `@keyframes fadeIn` page load transitions, smooth button feedback, and card hover elevations (`transform: translateY(-8px)`).
+- **Mobile-First Responsiveness:** Guaranteed zero horizontal scrollbars with complete fluid scalability.
 
 ---
 
-## 📱 Performance & Visual Proofs
+## 📱 Visual Proofs & Device Testing Outcomes
 
 | Desktop View | Tablet View | Mobile View |
 | :---: | :---: | :---: |
-| ![Desktop View](desktop.png) | ![Tablet View](tablet.png) | ![Mobile View](mobile.png) |
+| ![Desktop View](Screenshot/desktop.png) | ![Tablet View](Screenshot/tablet.png) | ![Mobile View](Screenshot/mobile.png) |
 
-### Micro-Interactions & Structure
-- **Hover State Elevation:**
-  ![Hover Effect](hover-card.png)
-- **Clean Repository Architecture:**
-  ![Folder Structure](folder-structure.png)
+### 🔍 Micro-Interactions & Project Structure
+
+- **Card Hover State Elevation:**
+  ![Card Hover Interaction](Screenshot/hover-card.png)
 
 ---
 
-## 🚀 Weekly Reflection
-During Week 3, I deepened my knowledge of modern CSS layout techniques by combining CSS Grid (`auto-fit`/`minmax`) with Flexbox to create scalable UI structures without relying heavily on rigid media queries. Separating concerns into `main.css` and `animations.css` significantly improved code cleanliness and maintainability.
+## 🚀 Progress Reflection
+In Week 3, combining CSS Grid (`auto-fit`/`minmax`) with Flexbox made building responsive components effortless without relying excessively on rigid media queries. Splitting animations into `styles/animations.css` significantly improved code organization and maintainability.
