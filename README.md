@@ -43,16 +43,11 @@ This repository contains the progressive deliverables for the AUREX Full-Stack E
 ### Clean Repository Architecture
 
 ![Folder Structure](folder-structure.png)
----
+## 📱 Visual Proofs & Device Testing Outcomes
 
-## 🔍 Micro-Interactions & Structure
-
-- **Card Hover State Elevation:**
-  ![Card Hover Interaction](Screenshot/hover-card.png)
-
-- **Clean Repository Architecture:**
-  ![Folder Structure](Screenshot/folder-structure.png)
-
+| Desktop View | Tablet View | Mobile View |
+| :---: | :---: | :---: |
+| ![Desktop View](desktop.png) | ![Tablet View](tablet.png) | ![Mobile View](mobile.png) |
 ---
 
 ## 🚀 Progress Reflection
